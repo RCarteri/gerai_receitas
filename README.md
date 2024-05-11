@@ -3,6 +3,8 @@
 ## Descrição
 Cansado de abrir a geladeira e não saber o que fazer? Apresentamos o Gerador de Receitas, a solução para suas dúvidas culinárias! Com nosso aplicativo, você pode informar os ingredientes que você tem em casa (por texto ou fotos!), receber sugestões de receitas deliciosas e fáceis de preparar, e explorar um mundo de sabores com combinações que você nunca imaginou!
 
+Esse projeto foi criado tentando solucionar uma dor que eu tinha quando fui morar sozinho... Fazer comida. Eu não tinha ideia nem de como fazer arroz pra ter uma noção. Morar sozinho e se deparar com a cozinha vazia e a geladeira cheia de ingredientes desconhecidos quem nunca sentiu aquele aperto no peito, a insegurança de não saber nem por onde começar? Essa angústia me impulsionou a criar este aplicativo, para que ninguém mais precise passar por isso. Imagine: você abre a geladeira, tira uma foto dos ingredientes que tem ou simplesmente digitar eles, e pronto! O aplicativo te sugere receitas fáceis e personalizadas geradas pela inteligência artificial do Google, te guiando passo a passo no preparo de refeições deliciosas. Mas não para por aí: você também descobre os valores nutricionais e os benefícios de cada prato, para uma alimentação completa e consciente. Chega de pânico na cozinha! Com este aplicativo, cozinhar se torna uma experiência prazerosa e descomplicada, te dando a liberdade de criar e saborear suas próprias refeições, sem medo de errar e com a certeza de estar se alimentando bem.
+
 ## Funcionalidades
 - Informar os ingredientes que você tem em casa (por texto ou fotos!) 📸
 - Receber sugestões de receitas deliciosas e fáceis de preparar! 😋
@@ -11,6 +13,7 @@ Cansado de abrir a geladeira e não saber o que fazer? Apresentamos o Gerador de
 
 ## Tecnologias Utilizadas
 - Python
+- Google AI
 - Google Colab
 - Integração com a câmera do computador
 - Integração com as pastas do Google Colab
